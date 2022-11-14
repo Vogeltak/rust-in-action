@@ -1,5 +1,5 @@
 [package]
-name = "render-hex"
+name = "channels-intro"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,5 +7,3 @@ edition = "2021"
 
 [dependencies]
 crossbeam = "0.8.2"
-rayon = "1"
-svg = "0.6"
